@@ -1,0 +1,1 @@
+Update user authentication for API (legacy) - Implemented a new feature to enhance user authentication.
