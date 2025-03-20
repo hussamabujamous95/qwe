@@ -1,0 +1,1 @@
+Remove API calls for CI/CD (quick) - Implemented a new feature to enhance API calls.
