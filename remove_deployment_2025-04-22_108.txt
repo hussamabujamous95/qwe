@@ -1,0 +1,1 @@
+Remove deployment process for synchronization (minor) - Implemented a new feature to enhance deployment process.
