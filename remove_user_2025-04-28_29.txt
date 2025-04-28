@@ -1,0 +1,1 @@
+Remove user profile for middleware (efficient) - Implemented a new feature to enhance user profile.
