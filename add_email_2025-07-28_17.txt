@@ -1,0 +1,1 @@
+Add email verification for security (quick) - Implemented a new feature to enhance email verification.
