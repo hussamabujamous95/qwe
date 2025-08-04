@@ -1,0 +1,1 @@
+Remove email verification for service (easy) - Implemented a new feature to enhance email verification.
