@@ -1,0 +1,1 @@
+Remove role management for endpoint (low-priority) - Implemented a new feature to enhance role management.
