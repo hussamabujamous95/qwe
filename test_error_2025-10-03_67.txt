@@ -1,0 +1,1 @@
+Test error handling for server (minor) - Implemented a new feature to enhance error handling.
