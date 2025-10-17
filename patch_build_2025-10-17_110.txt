@@ -1,0 +1,1 @@
+Patch build pipeline for query (minor) - Implemented a new feature to enhance build pipeline.
